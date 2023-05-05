@@ -10,7 +10,7 @@ I'm learning to develop Websites using JavaScript, HTML, Css, React, NodeJS, amo
 * ✉️  You can contact me at [GabrielPeres99@hotmail.com](mailto:GabrielPeres99@hotmail.com )
 * 🧠  I'm learning JavaScript, HTML, CSS, NodeJs, ReactJs. I want to become a Front-end developer
 * 🤝  I'm open to collaborating on , Learning and gaining experience to become a Web developer.
-* ⚡  I want to learn and be a front-end/back-end developer
+* ⚡  I want to learn and be a front-end developer
 
 <a href="https://www.github.com/GabrielPeres2004" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/GabrielPeres2004?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
