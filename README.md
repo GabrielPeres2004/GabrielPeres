@@ -6,7 +6,7 @@ Web Developer
 
 I'm learning to develop Websites using JavaScript, HTML, Css, React, NodeJS, among others!
 
-* 🌍  I'm based in Brazil, in the city of Coimbra in the state of Minas Gerais.
+* 🌍  I'm based in Brazil, in the city of Presidente Prudente in the state of São Paulo.
 * ✉️  You can contact me at [GabrielPeres99@hotmail.com](mailto:GabrielPeres99@hotmail.com )
 * 🧠  I'm learning JavaScript, HTML, CSS, NodeJs, ReactJs. I want to become a Front-end developer
 * 🤝  I'm open to collaborating on , Learning and gaining experience to become a Web developer.
