@@ -1,21 +1,21 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gabriel Luis Ferreira Peres
+Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Gabriel Luis Ferreira Peres
 ===================================================================================================================================================
 
 Web Developer
 -------------
 
-I'm learning to develop Websites using JavaScript, HTML, Css, React, NodeJS, among others!
+Estou aprendendo a desenvolver sites utilizando JavaScript, HTML, CSS, ReactJs, NodeJs, entre outros!
 
-* 🌍  I'm based in Brazil, in the city of Presidente Prudente in the state of São Paulo.
-* ✉️  You can contact me at [GabrielPeres99@hotmail.com](mailto:GabrielPeres99@hotmail.com )
-* 🧠  I'm learning JavaScript, HTML, CSS, NodeJs, ReactJs. I want to become a Front-end developer
-* 🤝  I'm open to collaborating on , Learning and gaining experience to become a Web developer.
-* ⚡  I want to learn and be a front-end developer
+* 🌍  Estou localizado no Brasil, na cidade de Presidente Prudente no estado de São Paulo.
+* ✉️  Você pode entrar em contato comigo em [GabrielPeres99@hotmail.com](mailto:GabrielPeres99@hotmail.com )
+* 🧠  Estou aprendendo JavaScript, HTML, CSS, NodeJs, ReactJs. Quero me tornar um desenvolvedor full stack.
+* 🤝  Estou aberto a colaborar, aprender e ganhar experiência para me tornar um desenvolvedor Web.
+* ⚡  Quero aprender e ser um desenvolvedor full stack.
 
 <a href="https://www.github.com/GabrielPeres2004" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/GabrielPeres2004?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
+### Habilidades
 
 
 <p align="left">
@@ -27,8 +27,9 @@ src="https://img.shields.io/github/followers/GabrielPeres2004?logo=github&style=
 </p>
 
 
-### Socials
+### Social
 
 <p align="left"> <a href="https://discord.com/users/GabrielP3114#1384" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/gabriel.peres.7140/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/GabrielPeres2004" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/GabrielPeres99" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gabriel-peres-866461262" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+### Certificados
+
